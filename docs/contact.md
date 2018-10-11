@@ -2,6 +2,7 @@
 title: "Contact"
 layout: about
 ---
+Contact
 
 <form class="form-horizontal">
 <fieldset>
